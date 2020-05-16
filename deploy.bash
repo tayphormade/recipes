@@ -5,7 +5,7 @@ set -e
 
 # Generate hugo page
 cd $script_dir
-hugo -t ramium
+hugo
 
 # Commit page
 cd public

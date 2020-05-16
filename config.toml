@@ -1,5 +1,6 @@
-baseURL = "https://tayphormade.github.io"
+
 languageCode = "en-us"
+baseURL = "https://tayphormade.github.io/"
 title = "TayphorMade Recipes"
 
 theme = "ramium"
@@ -14,4 +15,24 @@ theme = "ramium"
     sectionsInHome = 5  # set zero to not show in home page
     paginatePostsPerPage = 5
     paginateTagsPerPage = 5
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        name = "All Tags"
+        url = "/tags/"
+        weight = 1
+    [[menu.main]]
+        name = "All Posts"
+        url = "/posts/"
+        weight = 1
+    [[menu.main]]
+        name = "Author"
+        url = "/author/"
+        weight = 1
+
+# vim: et
 
