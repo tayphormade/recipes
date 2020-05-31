@@ -8,20 +8,20 @@ image: "/images/sourdough-okonomiyaki.jpg"
 - 1 cup sourdough discard
 - 1 egg
 - 1 tbsp cornstarch
-- ¼ tbs baking soda
+- ¼ tbsp baking soda
 - Pepper
 - Soy sauce
 - Sesame oil
-- 1 ½ cup shredded cabbage
+- 1½ cup shredded cabbage
 - Chopped, cooked meat (ham or sausage)
 - Chives or green onions
 - Other chopped veg
 
 ##### Sauce Ingredients
 - 4 tbsp mustard
-- 3.5 tbsp worcestershire sauce
+- 3½ tbsp worcestershire sauce
 - 2 tbsp oyster sauce
-- ⅕ tbsp sugar
+- ½ tbsp sugar
 
 ##### Directions
 
