@@ -12,7 +12,7 @@ Cook and reduce oatmeal.
 
 ##### Oatmeal Toppings
 - 8 prunes
-- 1/2 cup water
+- ½ cup water
 - Cinnamon stick
 - 1 star anise
 - Pinch ground cardamom
