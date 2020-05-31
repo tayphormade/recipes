@@ -1,13 +1,11 @@
 ---
 title: "Sourdough Okonomiyaki"
 date: 2020-05-11T20:27:57-05:00
-image: /images/sourdough-okonomiyaki.jpg
-draft: true
+image: "/images/sourdough-okonomiyaki.jpg"
 ---
 
 ##### Okonomiyaki Ingredients
-
-- 1 cup discard
+- 1 cup sourdough discard
 - 1 egg
 - 1 tbsp cornstarch
 - ¼ tbs baking soda
@@ -30,10 +28,4 @@ draft: true
 1. Whisk together discard though oil. Should look like pancake batter, add water or milk if it looks too thick. Add fillings and mix.
 1. Heat oil in pan over medium, add half or third of the batter and cook until golden. Flip and finish cooking.
 1. Top with okonomiyaki sauce, mayo, furikake and bonito flakes.
-
-
- 
-
-
-
 
