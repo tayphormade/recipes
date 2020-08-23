@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/tayphormade/tayphormade.github.io
 	branch = master
+[submodule "themes/gochowdown"]
+	path = themes/gochowdown
+	url = https://github.com/seanlane/gochowdown.git

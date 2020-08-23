@@ -3,7 +3,7 @@ languageCode = "en-us"
 baseURL = "https://tayphormade.github.io/"
 title = "TayphorMade Recipes"
 
-theme = "ramium"
+theme = "gochowdown"
 
 [params]
     description = "A description for the meta tag of the site"
@@ -24,10 +24,6 @@ theme = "ramium"
     [[menu.main]]
         name = "All Tags"
         url = "/tags/"
-        weight = 1
-    [[menu.main]]
-        name = "All Posts"
-        url = "/posts/"
         weight = 1
     [[menu.main]]
         name = "Author"
